@@ -17,6 +17,6 @@ function rotateArray(nums, k) {
 }
 
 
-let myArr = [1, 2, 3, 4, 5];
+let myArr = [89, 76, 37, 28, 12];
 rotateArray(myArr, 2);
 console.log(myArr); 
